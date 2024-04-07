@@ -1,17 +1,19 @@
 # DOAXVV-Auto-Script
-## 这个脚本用来给DOAXVV（死或生沙滩排球：维纳斯假期）挑战赛挂机
+## 这个脚本用来给DOAXVV（死或生沙滩排球：维纳斯假期 DEAD OR ALIVE Xtreme Venus Vacation）挑战赛挂机
 具有自动重复进行挑战、自动补水、自动过验证（不完全）、辅助算牌和计算抽卡概率等功能。我曾稳定使用上百小时，现已退坑，分享给大家。
 
 ## 安装方法：
 1. 下载最新版本的脚本（当前为**0.8.2**）
 2. 使用pip安装以下库：
-           pip install pyautogui
-           pip install keyboard
-           pip install ddddocr
-           pip install setproctitle
-           pip install ctype
-3. 推荐使用PyInstaller打包脚本
-4. 按照程序要求设置游戏（主要是分辨率）
+   ```
+   pip install pyautogui
+   pip install keyboard
+   pip install ddddocr
+   pip install setproctitle
+   pip install ctype
+    ```
+4. 推荐使用PyInstaller打包脚本
+5. 按照程序要求设置游戏（主要是分辨率）
 
 
 ## Version:        0.8.2
